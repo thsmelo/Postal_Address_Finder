@@ -37,4 +37,4 @@ python main.py
 ![cep_new](https://user-images.githubusercontent.com/40063504/79054220-94c22700-7c19-11ea-9bc9-29643b4a962f.PNG)
 
 ## Exemplo de funcionamento do código:
-[test][(https://raw.githubusercontent.com/thsmelo/Postal_Address_Finder/refs/heads/master/exemplocep.gif)]
+[test](https://raw.githubusercontent.com/thsmelo/Postal_Address_Finder/refs/heads/master/exemplocep.gif)
