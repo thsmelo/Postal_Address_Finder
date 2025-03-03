@@ -17,9 +17,6 @@ A aplicação realiza uma busca através da API da Viacep em uma base de dados e
 
 ![cep_new](https://user-images.githubusercontent.com/40063504/79054220-94c22700-7c19-11ea-9bc9-29643b4a962f.PNG)
 
-## Exemplo de funcionamento do código:
-[test][(https://raw.githubusercontent.com/thsmelo/Postal_Address_Finder/refs/heads/master/exemplocep.gif)]
-
 ## Address finder by zip code.
 
 The application performs a search through the Viacep API in a database and returns street, neighborhood, city and state information via the provided zip code.
@@ -39,3 +36,5 @@ python main.py
 
 ![cep_new](https://user-images.githubusercontent.com/40063504/79054220-94c22700-7c19-11ea-9bc9-29643b4a962f.PNG)
 
+## Exemplo de funcionamento do código:
+[test][(https://raw.githubusercontent.com/thsmelo/Postal_Address_Finder/refs/heads/master/exemplocep.gif)]
