@@ -18,7 +18,7 @@ A aplicação realiza uma busca através da API da Viacep em uma base de dados e
 ![cep_new](https://user-images.githubusercontent.com/40063504/79054220-94c22700-7c19-11ea-9bc9-29643b4a962f.PNG)
 
 ## Exemplo de funcionamento do código:
-https://github.com/thsmelo/Postal_Address_Finder/blob/master/exemplocep.gif?raw=true
+[test](https://github.com/thsmelo/Postal_Address_Finder/blob/master/exemplocep.gif?raw=true)
 
 ## Address finder by zip code.
 
